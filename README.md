@@ -23,7 +23,15 @@ World bank에서 제공하는 Indicator.csv는 전 세계를 대상으로 다양
  # 구현 화면
  메인화면
 ![그림3](https://user-images.githubusercontent.com/37431938/72978521-f5f80c80-3e19-11ea-9029-0346c227e54f.png)
+
+
 데이터 분석 시각화 화면
 ![그림2](https://user-images.githubusercontent.com/37431938/72978514-f1cbef00-3e19-11ea-9698-e03186653220.png)
+
+
+시각화 화면
+![image](https://user-images.githubusercontent.com/37431938/72978716-4ec7a500-3e1a-11ea-9728-47e35ef047fa.png)
+
+
 
 
